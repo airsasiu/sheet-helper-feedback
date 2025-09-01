@@ -103,4 +103,4 @@ If you’re new to GitHub and aren’t sure how to create an issue, check out Gi
 
 Thank you for helping make SheetHelper a better resource for Excel/Google Sheets users everywhere!  
 — The SheetHelper Team  
-[Visit SheetHelper](https://sheethelper.com)
+[Visit SheetHelper](https://www.sheethelper.com)
